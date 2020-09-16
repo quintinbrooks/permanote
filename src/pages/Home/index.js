@@ -73,7 +73,7 @@ export default function Home() {
                 <Typography variant="h5">Secure</Typography>
                 <Typography>
                   Your notes are encrypted and only visible to you, with
-                  RSA-OAEP.
+                  Advanced Encryption Standard.
                 </Typography>
               </CardContent>
             </Card>
